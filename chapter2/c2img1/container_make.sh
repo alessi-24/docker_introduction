@@ -1,0 +1,1 @@
+docker container run --rm -p 8080:80 c2img1_app python -u /server.py

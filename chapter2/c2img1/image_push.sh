@@ -1,0 +1,1 @@
+docker image push alessi2424/c2img1_app:latest

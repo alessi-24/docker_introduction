@@ -1,0 +1,1 @@
+c2env1_app % docker container run --name c2env1_app -p 8081:80 -d -e MESSAGE="HELLO DOCKER" -e PORT=80 c2env1_app python -u server.py
